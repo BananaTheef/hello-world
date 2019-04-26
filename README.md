@@ -1,5 +1,6 @@
 # hello-world
 first repository
 
-Hello, I study Philosphy. Now, I need something more direct, applicable.
-So here I am, being interested in coding.
+Hello, my name is Luben and I study Philosophy. 
+Somehow I got into Computer Science and Programming.
+It's refreshing to apply logic in a more applicable way.
